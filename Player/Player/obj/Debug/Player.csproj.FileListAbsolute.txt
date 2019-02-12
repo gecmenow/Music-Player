@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Player.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Player.exe
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\bin\Debug\Player.pdb
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\bin\Debug\NAudio.dll
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\bin\Debug\NAudio.xml
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.csprojAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.csproj.GenerateResource.cache
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.csproj.CopyComplete
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.exe
+c:\users\user\documents\visual studio 2017\Projects\Player\Player\obj\Debug\Player.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\Player\Player\obj\Debug\Player.csproj.ResolveComReference.cache
